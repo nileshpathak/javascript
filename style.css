@@ -1,0 +1,19 @@
+li{
+  background-color: #f5f5f5;
+    box-shadow: inset 2px 0px 2px #ddd;
+    color: #333;
+    font-size: 20px;
+    font-family: sans-serif;
+    width: 80px;
+    height: 80px;
+    display: inline-block;
+    padding: 3px;
+    list-style-type: none;
+    text-align: center;
+    line-height: 80px;
+    cursor: pointer;
+}
+li:hover{    
+  background-color: #333;
+    color: #fff;
+}
